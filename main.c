@@ -17,7 +17,9 @@ Security Patch()
 }
 Final Code()
 {
+HEAD
 	// Updated by Feature1
+	// Updated by Feature2
 }
 
 
